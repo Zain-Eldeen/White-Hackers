@@ -1,0 +1,7 @@
+echo "# White-Hackers" >> whiteHackers.dart
+git init
+git add whiteHackers.dart
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Zain-Eldeen/White-Hackers.git
+git push -u origin main
